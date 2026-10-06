@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mosquitto-breeding-grounds-db",
+  "private_key_id": "ef0ce61f7aeb65cd04fb85335c1e129be661ed8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXFbS7+Ddi3BgG\nS1Opeezhf4y8tBlv7kVgan+7VowhDeYDbDUmJIQcKdqhvEe2cmRQq+bLfDIbrB6V\nfAc6EtBvRCE6NQ40yAY84o8Td/I7CMu0dhqwszUUN+I3l4qdcE0IE+1OgtSqF9gT\nlk+YuVMKTE4k31Pb20017jFmiP1RQh1ruqrRDucgaDJ/iy7PO9GamkU0NC0BARWG\nzi8ZLE1vD/J3m4a5PMkHI50bg48/fIrPp37vBr7GyGSP9TmBwBXsOSKiyO+//zFx\n8fY93S3VkZOe8QYXOMkNyb3rDTGikK2rFjnmj6ir58L2gK8ta3vJ7zHbP6+VnaE3\ni3jhzom5AgMBAAECggEAAaQyungP4fsSJ79ZwVWZxTllhgdO33BvQITnrllaXGGS\nRic+zJNI/CVYQrmQ7eKARIAZmcxXnwVXr7gRPAhIS20qDz/UT658otyzQTrkXs/R\nprxBvfm0cevJgWEcGGnH7HaK9XdmaBKqPkw7wSUCSfJaRvxGJPVU+WkFEGAcoG1b\nLko6vDioo0WhojV1u0JsbXnEuxCH9wgN/cf4Ra9HJzSPXtsSS25AqXKq9ZX86Ctc\nkdFFSiNtEdnuulGOqvcK6dNVLMbTq2dADtgRnA60c0EHl7bO51KEX2nsckd6uXW9\n89b3L95ah/Ze8sIMWZZssinwdRjmZdpCaIDf79VOgQKBgQDIrfXAUcGdsaMmhjbq\n9yG3mt6OueAKHciWGzYrjN9VJecohNLxeFO6r53G6rw1PdDuf18XLaKqZ7rSjJJ6\n0GWeoxBEOuuMytb0wq3/FcCGiJakPC7tfDotwKlEX/kJdKGBXV7YLuhLlwTpXWJs\nTl65UPW9aYsX22BgJyHhKIPvLQKBgQDAu9Lt7kLpGRmTOO+cwQj0pFY+zrqY+jmR\ndPTCO+xPH435nn1iBE8ilZtDZxb+n8artbvIU9SLSGaH2wN4CHf+KiZaDUHmeGwG\nt9lgGZ3owPFISXINxaE7r4mDiarOrFQO+IhFX16XNxQj+o7DAJGxAKf5GuzdNbA3\ncQei+ZA8PQKBgARZ6UMzQpx1tpDmRhiQJTYC8KJtm1L81FWU33bQRiNlf/6b6qr7\nre0VU7l1a4FIBti1AE3TWnyRZTadf6uUCzAGXxrroCHcYA7MjdNDGHqSSZnkCCx0\nDhrh24m0/wRaeAoDCURst/KzopKgyLqKdHlWLQ3fVPm+cveCwbRNGZc9AoGASLKQ\nDU8hzeq5yt5fAzGMvzp9jZNMrwczT7pd2CXiLLYqR02Q3bfiYZksx2/LLJ/3wCz8\nd8OnGCJnCjeCR3RqTmR3st/tS5GArcgLJkSDW5fraujJLIivGGRN6l+zHeHCkyML\nw58FfuQ3pJqN3uAIFEu7ECsnzQjDPyZTSxX3YcECgYASpuRvemyhMQaSWYoIQ4mr\nV7CMwuE8Aj0wwRF6R2vfxJ/nzWhZKjaLOe/q/MjFJHU0j+YfnKaLYPF1WHHiGYhv\nFdOZhwTuyKsZ6HKhZNMtZ6xWJxkoSb43lCDCp4ajR1cReo/Qvj4gp5GpIKFb9Q1y\nGic5beteEtK4l+/ipqBs/g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@mosquitto-breeding-grounds-db.iam.gserviceaccount.com",
+  "client_id": "117045240401129063920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40mosquitto-breeding-grounds-db.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
